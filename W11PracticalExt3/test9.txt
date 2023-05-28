@@ -1,0 +1,9 @@
+11096 output: milli seconds - output1
+5161 output: milli seconds - output2
+4211 output: milli seconds - output3
+4173 output: milli seconds - output4
+4072 output: milli seconds - output5
+4150 output: milli seconds - output6
+4073 output: milli seconds - output7
+4287 output: milli seconds - output8
+4183 output: milli seconds - output9

@@ -1,0 +1,9 @@
+11645 output: milli seconds - output10
+14065 output: milli seconds - output20
+21084 output: milli seconds - output30
+13124 output: milli seconds - output40
+18395 output: milli seconds - output50
+14518 output: milli seconds - output60
+15882 output: milli seconds - output70
+13010 output: milli seconds - output80
+9614 output: milli seconds - output90
