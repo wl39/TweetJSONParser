@@ -1,6 +1,5 @@
 # TweetJSONParser
 - 사용 언어: Java
-- Github link: 
 - Hadoop을 이용해, 특정 기간동안 생긴 Twiter의 tweets들을 분석해 통계를 내는 프로그램입니다.
 - 해당 프로그램은 실행 불가능합니다.
 - 개발기간: 14일
